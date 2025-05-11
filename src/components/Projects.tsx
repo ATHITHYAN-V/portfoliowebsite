@@ -6,21 +6,21 @@ const Projects = () => {
     {
       title: 'AWS Cloud Cost Optimization - Identifying Stale Resources',
       description: 'Automated solution to identify and manage unused AWS resources, reducing monthly costs by up to 30%.',
-      image: 'src/img/cost-opt.jpg' ,
+      image: 'cost-opt.jpg' ,
       technologies: ['AWS Lambda', 'CloudWatch', 'Python', 'SNS'],
       link: 'https://github.com/ATHITHYAN-V/Cost-Optimization-using-lambda.git'
     },
     {
       title: 'S3 File Upload with SNS Notification',
       description: 'Event-driven architecture that triggers notifications when files are uploaded to S3 buckets.',
-      image: 'src/img/s3-notify-img.jpg',
+      image: 's3-notify-img.jpg',
       technologies: ['Amazon S3', 'AWS SNS', 'AWS Lambda', 'CloudFormation'],
       link: 'https://github.com/ATHITHYAN-V/s3-file-upload-project.git'
     },
     {
       title: 'Personal Portfolio Website with Automated Deployment using GitHub Actions',
       description: 'A responsive portfolio website with automated deployment using GitHub Actions, hosted on Amazon S3.',
-      image: 'src/img/github-action-img.png',
+      image: 'github-action-img.png',
       technologies: ['Amazon S3', 'GitHub Actions', 'HTML', 'CSS','JavaScript'],
       link: 'https://github.com/ATHITHYAN-V/portfolio-staticweb-with-githubaction.git'
     }

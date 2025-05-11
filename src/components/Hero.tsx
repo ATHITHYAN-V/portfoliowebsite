@@ -69,7 +69,7 @@ const Hero = () => {
           <div className="md:w-1/2 flex justify-center md:justify-end mr-[300px]">
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-2xl overflow-hidden border-4 border-indigo-200 shadow-xl">
               <img 
-                src="src\img\about.jpg" 
+                src="about.jpg" 
                 alt="Athithyan V" 
                 className="w-full h-full object-cover"
               />

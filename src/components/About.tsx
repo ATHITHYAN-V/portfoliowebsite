@@ -15,7 +15,7 @@ const About = () => {
             <div className="relative">
               <div className="w-full md:w-4/5 h-80 md:h-96 rounded-lg overflow-hidden">
                 <img 
-                  src="src\img\about.jpg" 
+                  src="about.jpg" 
                   alt="Athithyan V" 
                   className="w-[300px] h-[300px] md:w-[400px] md:h-[400px] object-cover rounded-lg ml-20"
                 />
